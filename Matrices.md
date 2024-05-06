@@ -12,6 +12,7 @@ Given:<br>
 ad - bc
 
 <H2>For a 3x3 Matrix<H2>
+
 |1 -1 -1|<br>
 |2 3 8 |<br>
 |-3 2 1 |
