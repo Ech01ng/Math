@@ -1,5 +1,63 @@
 <H1>Almost all things to do with Matrices that I could Find</H1>
 
+## Inverse of a Matrix
+
+<H2>For a 2x2 Matrix</H2>
+
+<H3>Formula:</H3>
+
+A<sup>-1</sup> = 1/(ad - bc) x<br>
+|d -b|<br>
+|-c a|
+
+<H4>Given:</H4>
+
+A=<br>
+|7 2|<br>
+|17 5|
+
+A<sup>-1</sup> = 1/(7(5) - 2(17)) x<br>
+|5 -2|<br>
+|-17 7|
+
+A<sup>-1</sup> = 1/(35 - 34) x<br>
+|5 -2|<br>
+|-17 7|
+
+A<sup>-1</sup> = 1/1 x<br>
+|5 -2|<br>
+|-17 5|
+
+Therfore the inverse of matrix A is<br>
+|5 -2|<br>
+|-17 5|
+
+<H4>Another Example</H4>
+
+B=<br>
+|8 6|<br>
+|5 4|
+
+B<sup>-1</sup> = 1/(8(4) - 6(5)) x<br>
+|4 -6|<br>
+|-5 8|
+
+B<sup>-1</sup> = 1/(32 - 30) x<br>
+|4 -6|<br>
+|-5 8|
+
+B<sup>-1</sup> = 1/(2) x<br>
+|4 -6|<br>
+|-5 8|
+
+1/2 x<br>
+|4 -6|<br>
+|-5 8|
+
+B<sup>-1</sup> =<br>
+|2 -3|<br>
+|-5/2 4|
+
 ## Determinant of a Matrix
 
 <H2>For a 2x2 Matrix</H2>
@@ -9,7 +67,7 @@ Given:<br>
 
 <H3>Process:</H3>
 
-ad - bc
+D = ad - bc
 
 <H2>For a 3x3 Matrix</H2>
 
@@ -26,6 +84,22 @@ Similar to the 2x2 but with an extra step
 |-3 2 1 |
 
 | D<sub>i j</sub> |
+
+<H4>Where:</H4>
+
+D = Determinant<br>
+i = Row<br>
+j = Column
+
+D<sub>1 1</sub> =
+
+|3 8 |<br>
+|2 1 |
+
+|a b|<br>
+|c d|
+
+D = ad - bc
 
 ## Cofactor of a Matrix
 
