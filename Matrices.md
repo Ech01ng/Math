@@ -1,18 +1,18 @@
-Almost all things to do with Matrices that I could Find
+## Almost all things to do with Matrices that I could Find
 
-Cofactor of a Matrices
+<H1>Cofactor of a Matrices</H1>
 
-Formula:
+<H2>Formula:</H2>
 C<sub>i j</sub> = (-1)<sup>i + j</sup> x | D<sub>i j</sub> |
 
-Where:
+<H3>Where:</H3>
 C = Cofactor
 i = Row
 j = Column
 D = Determinant
 sub = subscript notation
 
-Example:
+<H4>Example:</H4>
 Given ->
 
 A=
@@ -22,7 +22,7 @@ A=
 
 Find C<sub>1 1</sub>
 
-Process:
+<H4>Process:</H4>
 
 D<sub>1 1</sub>=
 |3 8 |
