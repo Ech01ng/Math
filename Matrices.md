@@ -12,7 +12,7 @@ j = Column
 D = Determinant
 sub = subscript notation
 
-<H4>Example:</H4>
+<H2>Example:</H2>
 Given ->
 
 A=
@@ -22,7 +22,7 @@ A=
 
 Find C<sub>1 1</sub>
 
-<H4>Process:</H4>
+<H2>Process:</H2>
 
 D<sub>1 1</sub>=
 |3 8 |
