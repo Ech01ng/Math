@@ -20,6 +20,7 @@ ad - bc
 <H3>Process:</H3>
 
 Similar to the 2x2 but with an extra step
+
 |1 -1 -1|<br>
 |2 3 8 |<br>
 |-3 2 1 |
