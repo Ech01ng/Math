@@ -15,9 +15,9 @@ sub = subscript notation
 <H2>Example:</H2>
 Given ->
 
-A=
-|1 -1 -1|
-|2 3 8 |
+A=<br>
+|1 -1 -1|<br>
+|2 3 8 |<br>
 |-3 2 1 |
 
 Find C<sub>1 1</sub>
