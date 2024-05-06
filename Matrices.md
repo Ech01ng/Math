@@ -1,6 +1,6 @@
-## Almost all things to do with Matrices that I could Find
+<H1>Almost all things to do with Matrices that I could Find</H1>
 
-<H1>Cofactor of a Matrices</H1>
+## Cofactor of a Matrices
 
 <H2>Formula:</H2>
 C<sub>i j</sub> = (-1)<sup>i + j</sup> x | D<sub>i j</sub> |
