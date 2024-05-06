@@ -1,5 +1,41 @@
 <H1>Almost all things to do with Matrices that I could Find</H1>
 
+## Multiplcation of a Matrix
+
+<H3>Rules:</H3>
+
+A = 2x3 B = 2x3, This cannot be multiplied
+But when B is transposed (B<sup>T</sup>) it becomes A = 2x3 B<sup>T</sup> = 3x2
+This can be multiplied and the resultant matrix is of the size 2x2 (The remaining numbers from A = 2x3 B<sup>T</sup> = 3x2)
+
+<H4>Given:</H4>
+
+A =<br>
+|3 4|<br>
+|7 2|<br>
+|5 9|
+
+AND
+
+B =<br>
+|3 1 5|<br>
+|6 9 7|
+
+3(3) + 4(6) = 33<br>
+3(1) + 4(9) = 39<br>
+3(5) + 4(7) = 43<br>
+7(3) + 2(6) = 33<br>
+7(1) + 2(9) = 25<br>
+7(5) + 2(7) = 49<br>
+5(3) + 9(6) = 69<br>
+5(1) + 9(9) = 86<br>
+5(5) + 9(7) = 88<br>
+
+A x B =<br>
+|22 29 43|<br>
+|33 25 49|<br>
+|69 86 88|
+
 ## Transpose of a Matrix
 
 <H3>Formula:</H3>
