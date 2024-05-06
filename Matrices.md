@@ -1,5 +1,17 @@
 <H1>Almost all things to do with Matrices that I could Find</H1>
 
+## Transpose of a Matrix
+
+<H3>Formula:</H3>
+
+if A = i x j then A<sup>T</sup> = j x i
+
+Where:
+
+A<sup>T</sup> = Transpose of A<br>
+i = Rows<br>
+j = Columns
+
 ## Inverse of a Matrix
 
 <H2>For a 2x2 Matrix</H2>
