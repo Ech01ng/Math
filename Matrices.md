@@ -7,9 +7,13 @@ C<sub>i j</sub> = (-1)<sup>i + j</sup> x | D<sub>i j</sub> |
 
 <H3>Where:</H3>
 C = Cofactor
+
 i = Row
+
 j = Column
+
 D = Determinant
+
 sub = subscript notation
 
 <H2>Example:</H2>
