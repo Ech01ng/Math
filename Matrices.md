@@ -24,8 +24,8 @@ Find C<sub>1 1</sub>
 
 <H2>Process:</H2>
 
-D<sub>1 1</sub>=
-|3 8 |
+D<sub>1 1</sub>=<br>
+|3 8 |<br>
 |2 1 |
 
 C<sub>1 1</sub> = (-1)<sup>1 + 1</sup> x | D<sub>i j</sub> |
