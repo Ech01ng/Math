@@ -12,6 +12,17 @@ A<sup>T</sup> = Transpose of A<br>
 i = Rows<br>
 j = Columns
 
+<H4>Given:</H4>
+
+A =<br>
+|1 3 4|<br>
+|2 3 2|
+
+A<sup>T</sup> =<br>
+|1 2|<br>
+|3 3|<br>
+|4 2|
+
 ## Inverse of a Matrix
 
 <H2>For a 2x2 Matrix</H2>
